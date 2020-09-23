@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+}
+
+h2,
+h3 {
+  text-align: center;
+  margin: 30px;
+}
+
+img {
+  height: 200px;
+}
+
+.box {
+  text-align: center;
+  padding: 10px;
+  border-radius: 1px solid black;
+}
